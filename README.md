@@ -1,4 +1,4 @@
-PIN Authentication and Withdrawal Script
+PIN Authentication and Withdrawal Script :
 This Python script simulates a simple PIN authentication process followed by a withdrawal operation for a digital bank. It demonstrates basic user input handling, conditional checks, and a simulated delay to represent transaction processing.
 
 Features
